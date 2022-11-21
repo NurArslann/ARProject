@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Models
+  m_EditorClassIdentifier: 
+  m_GroupName: Models
+  m_Data:
+    m_SerializedData: []
+  m_GUID: db0fd5b6adbc25e49a61017d63b72aaf
+  m_SerializeEntries:
+  - m_GUID: c6aacc8adb67abf4f9b2aee7bdfca369
+    m_Address: Assets/AddressableAssets/Items/masa.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mobilyalar
+  - m_GUID: 5b0fdcd3c832c1849bbd859d5cf4ab83
+    m_Address: Assets/AddressableAssets/Items/sandalye.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mobilyalar
+  - m_GUID: f9c3512620f677f42ba58fc3d6f921c8
+    m_Address: Assets/AddressableAssets/Items/Koltuj.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Mobilyalar
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f934c0d35a3f90743a95167912f1bfea, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 01e8ca8944d3cd74ba86ed9e21e9e2c5, type: 2}
+    - {fileID: 11400000, guid: 7a29b28cf14869e4aac68efda5b9a82a, type: 2}
